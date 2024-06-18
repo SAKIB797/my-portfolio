@@ -23,16 +23,14 @@ const handleSubmit = (event) => {
       messageDiv.style.color = "red"; // Optionally, change the color to red
     });
 };
-
 document
   .getElementById("contact-form")
   .addEventListener("submit", handleSubmit);
 
+/*contact form and map*/
 window.onload = function () {
   let a = document.getElementById("contact-form");
   let b = document.getElementById("map_inframe_container");
   let h = window.getComputedStyle(a).height;
   b.style.height = h;
 };
-
-
