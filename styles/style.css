@@ -186,7 +186,7 @@ form button {
 }
 
 form button:hover {
-  background-color: lightgreen;
+  background-color: lightgreen !important;
 }
 .projects_grid,
 .contact_and_location {
