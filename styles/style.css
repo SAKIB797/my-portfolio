@@ -1,3 +1,66 @@
+/* * {
+  color-scheme: dark;
+} */
+/* @media (prefers-color-scheme: dark) {
+  h1,
+  h2,
+  h3,
+  h4 {
+    color: white !important;
+  }
+
+  nav a {
+    color: white !important;
+  }
+  #projects div div {
+    background-color: #1e1e1e !important;
+    border: #1e1e1e;
+  }
+  #projects div div:hover {
+    --tw-shadow: 0 10px 15px -3px rgba(255, 255, 255, 0.1),
+      0 4px 6px -4px rgba(255, 255, 255, 0.1);
+    --tw-shadow-colored: 0 10px 15px -3px var(--tw-shadow-color),
+      0 4px 6px -4px var(--tw-shadow-color);
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 white),
+      var(--tw-ring-shadow, 0 0 white), var(--tw-shadow);
+  }
+
+  form button[type="submit"] {
+    background-color: black !important ;
+  }
+  form {
+    background-color: #1e1e1e !important;
+    color: white;
+  }
+  form input,
+  form textarea {
+    background-color: #1e1e1e !important;
+  }
+  .map_inframe_container {
+    background-color: #1e1e1e !important;
+  }
+  .nav-md {
+    background-color: #1e1e1e !important;
+  }
+  .nav-md a:hover {
+    background-color: #000000 !important;
+  }
+  .nav-md table {
+    background-color: #1e1e1e !important;
+    color: white;
+  }
+  table th {
+    background-color: #1e1e1e !important;
+  }
+  .nav-lg .cv-btn {
+    background-color: white !important;
+    color: #000000 !important;
+  }
+  .nav-lg .cv-btn:hover {
+    background-color: dodgerblue !important;
+    color: white !important;
+  }
+} */
 body {
   font-family: Arial, sans-serif !important;
   margin: 0;
