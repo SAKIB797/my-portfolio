@@ -27,7 +27,8 @@ document
   .getElementById("contact-form")
   .addEventListener("submit", handleSubmit);
 
-/*contact form and map*/
+
+/*==========contact form and map================*/
 window.onload = function () {
   let a = document.getElementById("contact-form");
   let b = document.getElementById("map_inframe_container");
